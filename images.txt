@@ -1,3 +1,4 @@
+centos:7.6.1810
 nginx
 #elasticsearch/elasticsearch:8.10.2
 #支持私库
